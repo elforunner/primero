@@ -1,0 +1,2 @@
+# primero
+full all
